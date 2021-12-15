@@ -1,7 +1,7 @@
 # task-manager
 <h3>Web Application Features<h3>
 <ul>
-  <li>Registering </li>
+<li>Registering </li>
 <li>Log in</li> 
 <li>Add projects/tasks/steps</li>
 <li>Designation as performed (project/tasks/steps)</li>
