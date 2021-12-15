@@ -1,5 +1,5 @@
 # task-manager
-<h3>Web Application Features<h3>
+<h3>Web Application Features</h3>
 <ul>
 <li>Registering </li>
 <li>Log in</li> 
